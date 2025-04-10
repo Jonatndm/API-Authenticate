@@ -57,14 +57,14 @@ npm o yarn
 # Casos de prueba implementados
 ## El sistema incluye los siguientes casos de prueba:
 
-CP-01: Registro de usuario válido
-CP-02: Registro con email duplicado
-CP-03: Login correcto
-CP-04: Login con credenciales incorrectas
-CP-07: Renovación de token
-CP-09: Bloqueo de cuenta tras múltiples intentos fallidos
-CP-10: Revocación de token (logout)
-CP-11: Validación de fortaleza de contraseña
+- CP-01: Registro de usuario válido
+- CP-02: Registro con email duplicado
+- CP-03: Login correcto
+- CP-04: Login con credenciales incorrectas
+- CP-07: Renovación de token
+- CP-09: Bloqueo de cuenta tras múltiples intentos fallidos
+- CP-10: Revocación de token (logout)
+- CP-11: Validación de fortaleza de contraseña
 
 # Configuración avanzada
 ## Variables de entorno
