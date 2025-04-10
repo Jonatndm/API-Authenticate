@@ -77,8 +77,8 @@ npm o yarn
 # Requisitos de contraseña
 Las contraseñas deben cumplir con los siguientes requisitos:
 
-Mínimo 8 caracteres
-Al menos una letra mayúscula
-Al menos una letra minúscula
-Al menos un número
-Al menos un carácter especial
+- Mínimo 8 caracteres
+- Al menos una letra mayúscula
+- Al menos una letra minúscula
+- Al menos un número
+- Al menos un carácter especial
