@@ -69,10 +69,10 @@ npm o yarn
 # Configuración avanzada
 ## Variables de entorno
 
-MONGO_URI: URI de conexión a MongoDB
-JWT_SECRET: Clave secreta para firmar tokens JWT
-JWT_EXPIRATION_TIME: Tiempo de expiración de tokens (ejemplo: '1h', '24h', '7d')
-MAX_LOGIN_ATTEMPTS: Número máximo de intentos de inicio de sesión antes de bloquear la cuenta
+- MONGO_URI: URI de conexión a MongoDB
+- JWT_SECRET: Clave secreta para firmar tokens JWT
+- JWT_EXPIRATION_TIME: Tiempo de expiración de tokens (ejemplo: '1h', '24h', '7d')
+- MAX_LOGIN_ATTEMPTS: Número máximo de intentos de inicio de sesión antes de bloquear la cuenta
 
 # Requisitos de contraseña
 Las contraseñas deben cumplir con los siguientes requisitos:
